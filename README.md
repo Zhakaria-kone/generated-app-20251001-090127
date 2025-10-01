@@ -1,6 +1,6 @@
 # Alsam Seminar Concierge
 
-[![Cloudflare Deploy](https://deploy.workers.cloudflare.com/button)]([cloudflarebutton])
+[![Cloudflare Deploy](https://deploy.workers.cloudflare.com/button)]([![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Zhakaria-kone/generated-app-20251001-090127))
 
 Alsam Seminar Concierge is a sophisticated, minimalist web application designed for a 4-star hotel to streamline the management of seminar attendees, with a primary focus on an efficient breakfast service check-in process. The application provides a centralized dashboard for hotel staff to manage seminars, register attendees, and monitor breakfast attendance in real-time.
 
@@ -104,4 +104,4 @@ This application is designed to be deployed to the Cloudflare network.
 
 You can also deploy this project directly to your Cloudflare account by clicking the button below.
 
-[![Cloudflare Deploy](https://deploy.workers.cloudflare.com/button)]([cloudflarebutton])
+[![Cloudflare Deploy](https://deploy.workers.cloudflare.com/button)]([![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Zhakaria-kone/generated-app-20251001-090127))
